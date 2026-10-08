@@ -8,7 +8,7 @@ About me:
 - 📎 You can find my portfolio here: https://tiberiupodareanu.com/
 - 📬 You can reach out to me here: work@tiberiupodareanu.com
 
-Current Focus: Getting an internship as a Software Engineer.
+Current Focus: Get strong enough to earn a software engineering internship in summer 2027.
 
 Featured projects: Bandmate. Think Tinder for musicians.
                    Traffic Simulator using C#.
