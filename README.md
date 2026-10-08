@@ -14,13 +14,13 @@ Featured projects: Bandmate. Think Tinder for musicians.
                    Traffic Simulator using C#.
 
 Technology:
-Programming Languages: C++, C#/.NET, Java, HTML5, CSS, JavaScript
-AI/Machine Learning: LLMs, AI Agents
-Backend: Node.js, Express.js, Java Swing, JavaFX
-Frontend: React, Bootstrap, TailwindCSS
-Databases: SQLite, MariaDB, MongoDB
-Tools: Git, VS Code, Visual Studio, Nano, Vim, Anaconda, IntelliJ IDEA, Spyder, Eclipse
-Cloud Platforms & Deployment: Cloudflare, AWS, Docker
-Agile Methodology Scrum
+Programming Languages: C++, C#/.NET, Java, HTML5, CSS, JavaScript;
+AI/Machine Learning: LLMs, AI Agents;
+Backend: Node.js, Express.js, Java Swing, JavaFX;
+Frontend: React, Bootstrap, TailwindCSS;
+Databases: SQLite, MariaDB, MongoDB;
+Tools: Git, VS Code, Visual Studio, Nano, Vim, Anaconda, IntelliJ IDEA, Spyder, Eclipse;
+Cloud Platforms & Deployment: Cloudflare, AWS, Docker;
+Agile Methodology Scrum;
 
 What I am learning: C++, ASP.NET Core, DSA.
