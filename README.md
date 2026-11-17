@@ -41,13 +41,13 @@ I turn raw, complex datasets into clear financial and product decisions—combin
 
 ### 📌 Featured Projects
 
-* **[Relational Database & Business Management System](#)** — *MS Access, SQL, VBA*  
+* **[Relational Database & Business Management System]** — *MS Access, SQL, VBA*  
   Normalized relational database modeling business operations, transaction tracking, and automated reporting workflows with custom SQL queries and VBA validation rules.
-* **[Bandmate](#)** — *MariaDB, SQL, Node.js, C#, Tailwind CSS*  
+* **[Bandmate]** — *MariaDB, SQL, Node.js, C#, Tailwind CSS*  
   Full-stack collaborative web platform co-engineered in a 4-person agile team; designed the relational database schema and backend API endpoints for reliable state persistence.
-* **[Traffic Simulator](#)** — *C#, .NET, WPF*  
+* **[Traffic Simulator]** — *C#, .NET, WPF*  
   Real-time multi-agent traffic simulation built for an OOP competition, modeling vehicle flow, congestion bottlenecks, and dynamic entity telemetry.
-* **[BlazorApp1](#)** — *C#, Blazor Server, SignalR, SVG*  
+* **[Interactive Whiteboard using Blazor Technology]** — *C#, Blazor Server, SignalR, SVG*  
   Zero-JavaScript real-time collaborative SVG whiteboard leveraging SignalR WebSockets for low-latency multi-user synchronization.
 
 ---
